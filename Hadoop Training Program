@@ -1,0 +1,115 @@
+Hadoop Training Program
+Pre-Requisites:
+Core JAVA, UNIX Basics, SQL
+
+1st Week:
+What is Hadoop & Why hadoop ?
+Differences b/w Traditional RDMS & Hadoop
+Hadoop Architecture & Initials
+1)	NameNode
+2)	Job Tracker
+3)	Task Tracker
+4)	DataNode
+5)	Secondary NameNode
+6)	NamNode Federation 
+7)	Hadoop File System, Local File System
+8)	Parallel Execution using Map Reduce
+9)	Read/Write Anatomy
+10)	Limitations of Hadoop
+11)	Block
+12)	Input Split
+13)	File Format
+14)	Input Format & types
+15)	Output Format & types
+16)	Compression Codec’s
+17)	YARN 
+2nd Week:
+Hadoop File System Commands
+Sqoop :
+1)	Why sqoop ?
+2)	Import
+3)	Export
+4)	Eval
+5)	File Formats
+6)	Import to hive,Hbase,Target Dir
+7)	Incremental Sqoop
+8)	How Code Generation will work 
+9)	How Code Generation will work
+10)	Mappers,split-by
+11)	saved jobs
+12)	Eval commands
+13)	Error Handling(How to handle Nulls,dir already exists,etc..) Real 
+14)	World Use case Examples Exercises
+15)	Troubleshooting sqoop jobs
+
+
+3rd Week:
+Hive:
+1)	Hive Architecture and when to use hive?
+2)	Comparision with RDBMS
+3)	Hive Metastore
+4)	External and Internal tables
+5)	Create,Insert,delete and alter Table Commands Data types and 
+6)	Operations Partitions and Buckets Joins(inner,outer,left outer,right 
+7)	outer,semi join) map side and reduce side Joins File Formats 
+8)	Subqueries UDFs, UDAF's TroubleShooting Real World Use case Examples 
+9)	Excerises.
+
+4th week:
+MapReduce :
+Mapper
+Reducer
+Driver
+Configuration Parameters
+Key Value Pair
+DataTypes
+Custom Writable 
+Map Side Join: Distributed Cache
+Reduce Side Join
+Grouping Comparator
+Combiner
+Partitioner
+Sorting : Secondary Sort
+Examples 
+
+
+Pig:
+1)	Pig Commands
+2)	When to use hive and Pig
+
+5th Week:
+OOzie:
+why oozie?
+Components of oozie job(job.properties,workflow,cooridinator,Bundle)
+Stages(PREP,RUNNING,suspend,etc..)
+Action and Control Nodes
+Map-Reduce Action
+Sqoop Action
+Hive Action
+shell Action
+Fork and Join
+Decision Nodes
+KillEmail
+Troubleshooting
+Real world Use case Examples
+Excerises
+
+
+Finally:
+
+Hbase Introduction 
+Spark Introduction 
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
